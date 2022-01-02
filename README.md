@@ -2,7 +2,20 @@
 A Kotlin client for Supabase Realtime server.
 
 # Usage
-TBD
+
+## Creating a Socket connection
+
+### Socket Hooks
+
+### Disconnect the Socket
+
+## Subscribe to topics
+You can subscribe to all topic, or to specific schema parts.
+- Listen to all database changes
+- Listen to a specific schema's changes
+- Listen to a specific table's changes
+- Listen to a specific column's value changes
+
 
 # Credits
 - https://github.com/supabase/realtime-js
