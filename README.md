@@ -19,6 +19,7 @@ You can subscribe to all topic, or to specific schema parts.
 
 # Credits
 - https://github.com/supabase/realtime-js
+- https://github.com/supabase-community/realtime-swift
 - https://github.com/dsrees/JavaPhoenixClient
 - https://github.com/davidstump/SwiftPhoenixClient
 
